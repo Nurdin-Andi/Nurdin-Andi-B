@@ -4,6 +4,7 @@
 - Sub-Heading (--)
 - Tulisan Bercetak Miring (*)
 - Membuat List (-)
+- Membuat Bold **xxx**
 
 Test 
 ==
