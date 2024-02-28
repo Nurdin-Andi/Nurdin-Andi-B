@@ -3,8 +3,8 @@
 - Heading (#)/(==)
 - Sub-Heading (--)
 - Tulisan Bercetak Miring (*)
-- Membuat List (-)
-- Membuat Bold **xxx**
+- Membuat List (-)/(+)
+- Membuat Bold (**)xxx(**)
 
 Test 
 ==
